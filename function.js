@@ -12,3 +12,7 @@ function c () {
   alert(this);
   console.log(c);
 }
+
+function d () {
+  console.log(d);
+}
