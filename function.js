@@ -16,3 +16,7 @@ function c () {
 function d () {
   console.log(d);
 }
+
+function e () {
+  console.log(e);
+}
