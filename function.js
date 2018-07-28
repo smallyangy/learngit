@@ -1,3 +1,7 @@
+function a () {
+  console.log('a');
+}
+
 function b () {
   alert(this);
   console.log('b');
