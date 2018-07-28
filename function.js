@@ -1,18 +1,11 @@
+function a () {
+  console.log('a');
+}
+
 function b () {
-  // alert(this);
-  console.log(b);
+  console.log('b');
 }
 
 function c () {
-  // alert(this);
-  console.log(c);
-}
-
-function d () {
-  alert(this);
-  console.log(d);
-}
-
-function e () {
-  console.log(e);
+  console.log('c');
 }
