@@ -17,3 +17,7 @@ function d () {
   alert(this);
   console.log(d);
 }
+
+function e () {
+  console.log(e);
+}
